@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I have a cat** 
 
 - Currently employed at <a href="https://www.technogarden.no/">Technogarden</a>
+- A fan of getting stuff done fast and correctly while reducing complexities.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" class="lng-ctr">
