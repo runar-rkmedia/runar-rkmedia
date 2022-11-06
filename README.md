@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Runar</h1>
 <h3 align="center">An enthusiastic developer, focusing on backend, DX, typography and frontend.</h3>
 
-- 🔭 I’m currently working on **A translation managaement-solution written in Go and Svelte** 
+- 🔭 I’m currently working on **A translation managaement-solution written in Go and Svelte** and **a mathematical puzzle-game**
 
-- 🌱 I’m currently learning **Time-Series Databases, DotNet, Zig and a bit of Blackhat**
+- 🌱 I’m currently learning **Time-Series Databases, .Net, Zig and a bit of Blackhat**
 
 - 💬 Ask me about **web dev, Go, JavaScript, React, and Svelte** 
 
