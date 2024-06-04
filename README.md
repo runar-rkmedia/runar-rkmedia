@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **gh@runar.dev** 
 
-- Currently employed at <a href="https://www.technogarden.no/">Technogarden</a>
+- Currently employed at <a href="https://www.sikri.no/">Sikri</a>
+- Currently taking a bachelor in CyberSecurity at Noroff at <a href="https://www.noroff.no/en/">Noroff</a>
 - A fan of getting stuff done fast and correctly while reducing complexities.
 
 <h3 align="left">Languages and Tools:</h3>
